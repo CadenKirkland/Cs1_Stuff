@@ -4,7 +4,7 @@
 class Birds{
 
     //define instance variables
-    //git test
+    
     String type;
     String color;
     String sound;
