@@ -6,7 +6,7 @@ class calculators{
     public double calculateArea(double radius) {
         return Math.PI * radius*radius;
     }
-    public double squarenum(double num2) {
+    public double square(double num2) {
         return num2 * num2;
     }
     //method that returns an int value
@@ -52,7 +52,7 @@ public class Java16calcmethodEXT {
         int product = calc.multiply(10, 11);
         System.out.println("the product is: "+ product);
 
-        double result = calc.squarenum(4);
+        double result = calc.square(4);
         System.out.println("the squared number is: "+ result);
     }
 }
