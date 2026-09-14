@@ -28,6 +28,6 @@ public class Java17Arrays {
         System.out.println("letter: "+ letters[4]);
 
         //un-comment the following to get an exception out of bounds
-        //System.out.println("letter: "+ letter[5])
+        //System.out.println("letter: "+ letters[5]);
     }
 }
