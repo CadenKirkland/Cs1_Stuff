@@ -1,4 +1,4 @@
-// Gabriel Gonzalez
+// Caden Kirkland
 // input user elements into an array and reverse print
 
 import java.util.Scanner;
