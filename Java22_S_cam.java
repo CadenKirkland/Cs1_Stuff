@@ -1,6 +1,6 @@
 //CadenK
 // App for securtiy cams
-//
+
 class Camera{
     int batteryLife;
     String location;
