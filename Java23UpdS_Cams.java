@@ -1,3 +1,4 @@
+//CadenK
 // app for security cameras
 // app for security cameras
 
@@ -79,5 +80,4 @@ public class Java23UpdS_Cams{
         gCam.getCurrentView();
         gCam.setDirection(10);
     }
-
 }
