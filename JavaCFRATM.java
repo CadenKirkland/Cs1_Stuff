@@ -22,7 +22,7 @@ class atm{
         System.out.println("how much would you like to deposit?");
          double depositamount = scObj.nextInt();
          cbalance += depositamount;
-         System.out.println("you have deposited " + depositamount + "dollars");
+         System.out.println("you have deposited " + depositamount + " dollars");
     }
 
     public void getWithdraw(){
